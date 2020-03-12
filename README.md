@@ -49,7 +49,6 @@ Utilizar cloud(maxvalue,size):
     Saída:
     s = posicao x,y,z e valor [i,j]
     '''
-    
-<img width="255" alt="ramp2" src="https://user-images.githubusercontent.com/59963253/76474902-ed649100-63db-11ea-859f-ffe0342cca2b.PNG">
-<img width="257" alt="ramp1" src="https://user-images.githubusercontent.com/59963253/76474907-ee95be00-63db-11ea-8898-0b747580f8da.PNG">
 
+<img width="256" alt="cloud1" src="https://user-images.githubusercontent.com/59963253/76475097-a1661c00-63dc-11ea-8351-daf51ee58bdc.PNG">
+<img width="256" alt="cloud2" src="https://user-images.githubusercontent.com/59963253/76475103-a32fdf80-63dc-11ea-9c73-99e89ad63bda.PNG">
